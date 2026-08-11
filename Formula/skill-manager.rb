@@ -11,8 +11,8 @@
 class SkillManager < Formula
   desc "Build tool for agent skills: CLI deps, skill references, MCP servers"
   homepage "https://github.com/haydenrear/skill-manager"
-  url "https://github.com/haydenrear/skill-manager/releases/download/v0.21.1/skill-manager-0.21.1.tar.gz"
-  sha256 "baf5ec5e1d3fa23fd2df57d3fb09ab616ce3bbe9bc66e197cd4f4407b9bd4a43"
+  url "https://github.com/haydenrear/skill-manager/releases/download/v0.22.0/skill-manager-0.22.0.tar.gz"
+  sha256 "f82ff7fd7852e9c065fb4ed950b9c30bbf90a790d53b4b38579fe7976b9f3541"
   license "Apache-2.0"
 
   depends_on "openjdk@21"
